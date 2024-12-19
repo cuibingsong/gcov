@@ -1,0 +1,7 @@
+result/
+*.gcda
+*.gcno
+*.o
+main.asm
+*.info
+main
